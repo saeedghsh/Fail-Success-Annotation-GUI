@@ -1,0 +1,4 @@
+###### Requirements with Version Specifiers ######
+numpy >= 1.10.2
+PySide >= 1.2.4
+matplotlib >= 2.0
